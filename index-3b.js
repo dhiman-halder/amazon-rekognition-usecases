@@ -2,7 +2,7 @@ var AWS = require('aws-sdk'); 
 
 AWS.config.region = 'us-east-1';
 
-//get reference to Rekognition client
+//get reference to AWS Rekognition client
 var rekognition = new AWS.Rekognition({apiVersion: '2016-06-27'});
 
 exports.handler = (event, context, callback) => {
