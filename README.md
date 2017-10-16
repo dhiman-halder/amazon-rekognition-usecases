@@ -7,3 +7,5 @@ AWS Lambda functions for the following usecases
 4. Travel Photo Smart Search App (index-4a.js,index-4b.js)
 5. Enhance the Travel Photo Smart Search App with Image Moderation (index-5.html)
 6. Celebrity Recognizer (index-6.html)
+
+Complete Tutorials @ https://www.udemy.com/amazon-rekognition-development-a-complete-guide/
